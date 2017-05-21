@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker start HandBrake
+logger "HandBrake started by CA user script"
