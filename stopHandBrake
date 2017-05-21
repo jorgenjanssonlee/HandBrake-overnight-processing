@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker stop HandBrake
+logger "HandBrake stopped by CA user script"
